@@ -1,2 +1,2 @@
-What is the difference between a merge and a rebase?
-Merge combines changes from 2 branches whereas rebase adds changes from one branch to another. Rebasing is good before a merging a feature branch.
+What is a remote repository?
+a repository that is accessed non locally  (typically on a service like github) that has version and such git features.
