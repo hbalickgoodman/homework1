@@ -1,2 +1,2 @@
 What is a remote repository?
-a repository that is accessed non locally  (typically on a service like github) that has version and such git features.
+ a repository that is accessed non locally  (typically on a service like github) that has version and such git features.
